@@ -6,17 +6,26 @@ The one-page website with a built-in calorie calculator, menu that switches by t
 <div style= "
     display: flex;
     justify-content: space-between;
+    align-items: center;
     ">
+<<<<<<< HEAD
     <img alt="tab menu" src="./Food/img/screenshots/tab_menu.PNG" width="300" />
     <img alt="slider" src="./Food/img/screenshots/slider.PNG" width="300" />
     <img alt="calorie calculator" src="./Food/img/screenshots/calorie_calculator.PNG" width="300" />
     <img alt="sales timer" src="./Food/img/screenshots/sales_timer.PNG" width="300" />
+=======
+    
+    <img alt="tab_menu" src="./Food/img/screenshots/tab_menu.PNG" width="300" />
+    <img alt="slider" src="./Food/img/screenshots/slider.PNG" width="300" />
+    <img alt="calorie calculator" src="./Food/img/screenshots/calorie_calculator.PNG" width="300" />
+    <img alt="sales timer" src="./Food/img/screenshots/sales_timer.PNG" width="400" />
+>>>>>>> 8ecaa4b208992566f3bff76ec3f8f5d27c92e09f
 </div>
 
 I splited js code into independent modules that all are imported into the main file script.js. And then used a webpack to build modules.
 For the cross-browser adaptation I applied a <a src="https://github.com/babel/babel">Babel</a> compiler.
 
-## Dowload
+## Download
 
 You can pul this repo.
 Please dont't forget to check package.js and use ' npm -i ' to dowload all dependencies.
