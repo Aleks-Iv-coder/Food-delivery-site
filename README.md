@@ -20,6 +20,6 @@ For the cross-browser adaptation I applied a [Babel](https://github.com/babel/ba
 
 ## Download
 
-You can pul this repo.
+You can pull this repo.
 Please dont't forget to check package.js and use ' npm -i ' to dowload all dependencies.
 Also you will need instal [json-server](https://github.com/typicode/json-server) package as for product cards that is rendering dynamically of the you will need to use the json-server.
