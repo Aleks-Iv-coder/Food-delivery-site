@@ -3,15 +3,11 @@
 It's my training project.
 The one-page website with a built-in calorie calculator, menu that switches by tab, controlled slider, sales timer. The product cards implemented by package-json server.
 
-<div style= "
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    ">
-    <img alt="tab menu" src="./Food/img/screenshots/tab_menu.PNG" width="300" />
-    <img alt="slider" src="./Food/img/screenshots/slider.PNG" width="300" />
-    <img alt="calorie calculator" src="./Food/img/screenshots/calorie_calculator.PNG" width="300" />
-    <img alt="sales timer" src="./Food/img/screenshots/sales_timer.PNG" width="500" />
+<div align="center" width="100%">
+    <img alt="tab menu" src="./Food/img/screenshots/tab_menu.PNG" width="32%" />
+    <img alt="slider" src="./Food/img/screenshots/slider.PNG" width="32%" />
+    <img alt="calorie calculator" src="./Food/img/screenshots/calorie_calculator.PNG" width="32%" />
+    <img alt="sales timer" src="./Food/img/screenshots/sales_timer.PNG" width="32%" />
 </div>
 
 ###
