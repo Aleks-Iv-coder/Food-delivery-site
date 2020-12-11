@@ -11,7 +11,7 @@ The one-page website with a built-in calorie calculator, menu that switches by t
     <img alt="tab menu" src="./Food/img/screenshots/tab_menu.PNG" width="300" />
     <img alt="slider" src="./Food/img/screenshots/slider.PNG" width="300" />
     <img alt="calorie calculator" src="./Food/img/screenshots/calorie_calculator.PNG" width="300" />
-    <img alt="sales timer" src="./Food/img/screenshots/sales_timer.PNG" width="300" />
+    <img alt="sales timer" src="./Food/img/screenshots/sales_timer.PNG" width="500" />
 </div>
 
 I splited js code into independent modules that all are imported into the main file script.js. And then used a webpack to build modules.
